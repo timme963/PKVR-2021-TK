@@ -1,0 +1,14 @@
+{
+  "id" : 1606386510762,
+  "name" : "init",
+  "comment" : "",
+  "relativeDirectory" : "",
+  "variables" : [ ],
+  "frequency" : 0,
+  "deferring" : 0,
+  "eventDriven" : false,
+  "preCondition" : null,
+  "runtimeCondition" : null,
+  "postCondition" : null,
+  "parameters" : { }
+}

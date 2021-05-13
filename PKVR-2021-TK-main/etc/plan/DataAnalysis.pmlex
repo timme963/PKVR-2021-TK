@@ -1,0 +1,23 @@
+{
+  "plan" : "DataAnalysis.pml#1611832940311",
+  "uiElementMap" : {
+    "1611832986529" : {
+      "id" : 1611832986530,
+      "name" : "1611832986530",
+      "comment" : "",
+      "x" : -349,
+      "y" : 5,
+      "visible" : false,
+      "bendPoints" : [ ]
+    },
+    "1611833062246" : {
+      "id" : 1611833062247,
+      "name" : "1611833062247",
+      "comment" : "",
+      "x" : -335,
+      "y" : 102,
+      "visible" : false,
+      "bendPoints" : [ ]
+    }
+  }
+}

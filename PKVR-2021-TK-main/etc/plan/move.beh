@@ -1,0 +1,14 @@
+{
+  "id" : 1611825595992,
+  "name" : "move",
+  "comment" : "",
+  "relativeDirectory" : "",
+  "variables" : [ ],
+  "frequency" : 0,
+  "deferring" : 0,
+  "eventDriven" : false,
+  "preCondition" : null,
+  "runtimeCondition" : null,
+  "postCondition" : null,
+  "parameters" : { }
+}

@@ -1,0 +1,14 @@
+{
+  "id" : 1610020212179,
+  "name" : "waitb",
+  "comment" : "",
+  "relativeDirectory" : "",
+  "variables" : [ ],
+  "frequency" : 0,
+  "deferring" : 0,
+  "eventDriven" : false,
+  "preCondition" : null,
+  "runtimeCondition" : null,
+  "postCondition" : null,
+  "parameters" : { }
+}

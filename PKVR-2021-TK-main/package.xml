@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>alica_agent</name>
+  <version>0.0.0</version>
+  <description>The alica-agent package</description>
+
+  <maintainer email="uk063246@student.uni-kassel.de">nico</maintainer>
+
+  <license>MIT</license>
+
+    <depend>alica_engine</depend>
+    <depend>alica_capnzero_proxy</depend>
+    <depend>capnzero</depend>
+    <depend>system_config</depend>
+    <depend>id_capnzero</depend>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+
+  <export>
+
+  </export>
+</package>

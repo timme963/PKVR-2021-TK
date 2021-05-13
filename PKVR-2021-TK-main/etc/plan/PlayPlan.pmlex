@@ -1,0 +1,23 @@
+{
+  "plan" : "PlayPlan.pml#1611235901799",
+  "uiElementMap" : {
+    "1611235950465" : {
+      "id" : 1611235950467,
+      "name" : "1611235950467",
+      "comment" : "",
+      "x" : -536,
+      "y" : 39,
+      "visible" : false,
+      "bendPoints" : [ ]
+    },
+    "1611824049184" : {
+      "id" : 1611824049185,
+      "name" : "1611824049185",
+      "comment" : "",
+      "x" : -744,
+      "y" : 52,
+      "visible" : false,
+      "bendPoints" : [ ]
+    }
+  }
+}
